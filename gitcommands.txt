@@ -1,8 +1,13 @@
 git init
-git config-global.username
-git config-global user.email
-git add
-git commit -M
+git config-global.username shahidahmed319
+git config-global user.email 2400031247@kluniversity.in
+git add.
+git commit -M "First Project" FSDPROJECT-S67.git
 git branch -M main
+git remote add origin "https://github.com/shahidahmed319/repositoryname.git
 git push -u origin 
+git push -u origin main
+
+
+git checkout
 git log
